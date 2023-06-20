@@ -1,0 +1,56 @@
+syntax="proto3";
+package triathlon.protocol;
+
+option java_package = "triathlon.network.protobuffprotoccol";
+option java_outer_classname = "TriathlonProtobufs";
+
+message Referee{
+  int32 id=1;
+  string username=2;
+  string passwrod=3;
+  string first_name=4;
+  string last_name=5;
+  string activity=6;
+}
+
+message Participant{
+  int32 id=1;
+  string first_name=2;
+  string last_name=3;
+  int32 points=4;
+}
+
+message Result{
+  int32 id=1;
+  int32 participantId=2;
+  int32 refereeId=3;
+  string activity=4;
+  int32 points=5;
+}
+
+message TriathlonRequest{
+  enum Type{Unknown=0; Login=1; Logout=2; AddScore=3; GetTop=4;GetNoted=5; GetNotNoted=6; GetPart=7;}
+
+  // Identifies which request is filled in.
+  Type type = 1;
+
+  // One of the following will be filled in, depending on the type.
+  oneof payload{
+    Referee referee = 2;
+    int32 id = 3;
+    Result result = 4;
+  }
+}
+
+message TriathlonResponse{
+  enum Type{Unknown=0; Ok=1; Error=2; GetTop=3; GetNoted=4; GetNotNoted=5; NewScore=6; Part=7;}
+
+  Type type = 1;
+
+  // One of the following will be filled in, depending on the type.
+  string error=2;
+  repeated Participant participants=3;
+  Referee referee=4;
+  Participant participant=5;
+  Result result=6;
+}

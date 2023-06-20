@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Laborator4" target="17" />
+      <module name="Laborator4.main" target="17" />
+      <module name="Laborator4.test" target="17" />
+      <module name="Laborator_4" target="17" />
+      <module name="Laborator_4.main" target="17" />
+      <module name="Laborator_4.test" target="17" />
+      <module name="Laborator_4.TriathlonModel" target="17" />
+      <module name="Laborator_4.TriathlonModel.main" target="17" />
+      <module name="Laborator_4.TriathlonModel.test" target="17" />
+      <module name="Laborator_4.TriathlonNetworking.main" target="17" />
+      <module name="Laborator_4.TriathlonNetworking.test" target="17" />
+      <module name="Laborator_4.TriathlonNetworking2" target="17" />
+      <module name="Laborator_4.TriathlonNetworking2.main" target="17" />
+      <module name="Laborator_4.TriathlonNetworking2.test" target="17" />
+      <module name="Laborator_4.TriathlonNetworking3.main" target="17" />
+      <module name="Laborator_4.TriathlonNetworking3.test" target="17" />
+      <module name="Laborator_4.TriathlonPersistence" target="17" />
+      <module name="Laborator_4.TriathlonPersistence.main" target="17" />
+      <module name="Laborator_4.TriathlonPersistence.test" target="17" />
+      <module name="Laborator_4.TriathlonServer.main" target="17" />
+      <module name="Laborator_4.TriathlonServer.test" target="17" />
+      <module name="Laborator_4.TriathlonServer2" target="17" />
+      <module name="Laborator_4.TriathlonServer2.main" target="17" />
+      <module name="Laborator_4.TriathlonServer2.test" target="17" />
+      <module name="Laborator_4.TriathlonServices" target="17" />
+      <module name="Laborator_4.TriathlonServices.main" target="17" />
+      <module name="Laborator_4.TriathlonServices.test" target="17" />
+      <module name="Laborator_4.TriatlonModel" target="17" />
+      <module name="Laborator_4.TriatlonModel.main" target="17" />
+      <module name="Laborator_4.TriatlonModel.test" target="17" />
+      <module name="Laborator_7" target="17" />
+      <module name="Laborator_7.main" target="17" />
+      <module name="Laborator_7.test" target="17" />
+      <module name="TriathlonCientFX" target="17" />
+      <module name="TriathlonCientFX.main" target="17" />
+      <module name="TriathlonCientFX.test" target="17" />
+      <module name="TriathlonNetworking3" target="17" />
+      <module name="TriathlonNetworking3.main" target="17" />
+      <module name="TriathlonNetworking3.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Laborator_3.main" options="--add-exports javafx.controls/com.sun.javafx.scene.control.skin=com.example.laborator_3" />
+    </option>
+  </component>
+</project>

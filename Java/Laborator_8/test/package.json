@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "package": "^1.0.1",
+    "vite": "^4.3.8"
+  }
+}

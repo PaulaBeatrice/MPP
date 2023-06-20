@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+}
+
+group 'Lab_4'
+version '1.0'
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation project (':TriathlonModel')
+    implementation project (':TriathlonServices')
+
+    testImplementation group: 'junit', name: 'junit', version: '4.12'
+}

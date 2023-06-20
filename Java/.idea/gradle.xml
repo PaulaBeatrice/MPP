@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Lab_4 - Copy - Copy" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Lab_4 - Copy - Copy" />
+            <option value="$PROJECT_DIR$/Lab_4 - Copy - Copy/TriathlonClient" />
+            <option value="$PROJECT_DIR$/Lab_4 - Copy - Copy/TriathlonModel" />
+            <option value="$PROJECT_DIR$/Lab_4 - Copy - Copy/TriathlonNetworking" />
+            <option value="$PROJECT_DIR$/Lab_4 - Copy - Copy/TriathlonPersistence" />
+            <option value="$PROJECT_DIR$/Lab_4 - Copy - Copy/TriathlonServer" />
+            <option value="$PROJECT_DIR$/Lab_4 - Copy - Copy/TriathlonServices" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Laborator_1" />
+        <option name="gradleJvm" value="jbr-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Laborator_1" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Laborator_3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Laborator_3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Laborator_5" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Laborator_5" />
+            <option value="$PROJECT_DIR$/Laborator_5/TriathlonClient" />
+            <option value="$PROJECT_DIR$/Laborator_5/TriathlonModel" />
+            <option value="$PROJECT_DIR$/Laborator_5/TriathlonNetworking" />
+            <option value="$PROJECT_DIR$/Laborator_5/TriathlonPersistence" />
+            <option value="$PROJECT_DIR$/Laborator_5/TriathlonServer" />
+            <option value="$PROJECT_DIR$/Laborator_5/TriathlonServices" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Laborator_6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Laborator_6" />
+            <option value="$PROJECT_DIR$/Laborator_6/TriathlonClient" />
+            <option value="$PROJECT_DIR$/Laborator_6/TriathlonModel" />
+            <option value="$PROJECT_DIR$/Laborator_6/TriathlonNetworking" />
+            <option value="$PROJECT_DIR$/Laborator_6/TriathlonPersistence" />
+            <option value="$PROJECT_DIR$/Laborator_6/TriathlonServer" />
+            <option value="$PROJECT_DIR$/Laborator_6/TriathlonServices" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Laborator_6/TriathlonClient" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Laborator_6/TriathlonClient" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Laborator_7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Laborator_7" />
+            <option value="$PROJECT_DIR$/Laborator_7/RestServices" />
+            <option value="$PROJECT_DIR$/Laborator_7/TriathlonClient" />
+            <option value="$PROJECT_DIR$/Laborator_7/TriathlonModel" />
+            <option value="$PROJECT_DIR$/Laborator_7/TriathlonNetworking" />
+            <option value="$PROJECT_DIR$/Laborator_7/TriathlonPersistence" />
+            <option value="$PROJECT_DIR$/Laborator_7/TriathlonServer" />
+            <option value="$PROJECT_DIR$/Laborator_7/TriathlonServices" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="server" uuid="02c8e56d-da90-4587-9549-5550ac4a57ce">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>jdbc.properties
+
+C:/FACULTATE/Anul 2/Semestrul 2/Medii de Proiectare si Programare/Laboratoare/Lab_4/TriathlonServer/src/main/resources/server.properties</remarks>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\\FACULTATE\\Anul 2\\Semestrul 2\\Medii de Proiectare si Programare\\Laboratoare\\mpp-proiect-java-PaulaBeatrice\\triatlon.db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

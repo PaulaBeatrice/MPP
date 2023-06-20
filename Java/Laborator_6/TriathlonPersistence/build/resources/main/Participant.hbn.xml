@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="triathlon.model">
+    <class name="Participant" table="Participants">
+        <id name="id" column="id"> <generator class="increment"/> </id>
+        <property name="first_name" column="first_name"/>
+        <property name="last_name" column="last_name"/>
+        <property name="points" column="points"/>
+    </class>
+</hibernate-mapping>
